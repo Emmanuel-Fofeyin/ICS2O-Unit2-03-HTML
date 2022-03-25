@@ -32,7 +32,7 @@ h3 {
 
 p.subheader {
   font-weight: bold;
-  color: #ffff66;
+  color: #ff6;
 }
 
 div {
@@ -52,7 +52,7 @@ a {
 
 a:link,
 a:visited {
-  color: #00ffff;
+  color: #00ff;
 }
 
 a:hover,
